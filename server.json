@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "description": "mercado",
+      "price": 74,
+      "type": "outcome",
+      "category": "alimentação",
+      "createdAt": "2023-01-26T10:30:08.762Z",
+      "id": 1
+    }
+  ]
+}
