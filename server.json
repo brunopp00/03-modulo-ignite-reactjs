@@ -1,11 +1,11 @@
 {
   "transactions": [
     {
-      "description": "mercado",
-      "price": 74,
+      "description": "teste",
+      "price": 123,
       "type": "outcome",
-      "category": "alimentação",
-      "createdAt": "2023-01-26T10:30:08.762Z",
+      "category": "teste",
+      "createdAt": "2023-01-26T16:13:08.364Z",
       "id": 1
     }
   ]
