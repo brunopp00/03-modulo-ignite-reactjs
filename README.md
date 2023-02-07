@@ -1,0 +1,1 @@
+![App Cover](./src/assets/capa.png)
